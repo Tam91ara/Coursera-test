@@ -1,0 +1,66 @@
+
+
+
+h1 {
+    text-align: center;
+}
+
+ #box1 {
+background-color: gray;
+width: 30%;
+height: 200px;
+border: 2px solid black;
+float: right;
+
+
+ }
+#name1 {
+    background-color:rgb(237, 139, 139);
+    width: 50px;
+    height: 20px; 
+    float: right;
+    margin-top: 0%;
+    border: 2px solid black;
+
+}
+
+ #box2 {
+background-color: gray;
+width: 30%;
+height: 200px;
+border: 2px solid black;
+float: left;
+
+ }
+
+#name2 {
+    background-color:rgb(252, 237, 105);
+    width: 50px;
+    height: 20px; 
+    float: right;
+    border: 2px solid black;
+    margin-top: 0%;
+
+}
+
+ #box3 {
+background-color: gray;
+width: 30%;
+height: 200px;
+border: 2px solid black;
+margin: 0 auto;
+
+
+
+
+ }
+#name3 {
+    background-color:rgb(139, 237, 176);
+    width: 50px;
+    height: 20px; 
+    float: right;
+    margin-top: 0%;
+    border: 2px solid black;
+
+}
+ 
